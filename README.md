@@ -1,5 +1,5 @@
 ## Hi there 👋
-I like to create stuff on Windows and Linux.
+I enjoy creating and experimenting with software on both Windows and Linux, while tinkering with all kinds of computer hardware.
 
 ##
 <div align='center'>
